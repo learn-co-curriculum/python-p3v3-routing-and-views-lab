@@ -7,26 +7,6 @@
 
 ---
 
-## Key Vocab
-
-- **Web Framework**: software that is designed to support the development of web
-  applications. Web frameworks provide built-in tools for generating web
-  servers, turning Python objects into HTML, and more.
-- **Extension**: a package or module that adds functionality to a Flask
-  application that it does not have by default.
-- **Request**: an attempt by one machine to contact another over the internet.
-- **Client**: an application or machine that accesses services being provided by
-  a server through the internet.
-- **Web Server**: a combination of software and hardware that uses Hypertext
-  Transfer Protocol (HTTP) and other protocols to respond to requests made over
-  the internet.
-- **Web Server Gateway Interface (WSGI)**: an interface between web servers and
-  applications.
-- **Template Engine**: software that takes in strings with tokenized values,
-  replacing the tokens with their values as output in a web browser.
-
----
-
 ## Instructions
 
 > This is a **test-driven lab**, so please fork and clone the repo.
@@ -101,4 +81,3 @@ submit.
 
 - [A Minimal Application - Flask](https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application)
 - [Routing - Flask](https://flask.palletsprojects.com/en/2.3.x/quickstart/#routing)
-- [Chapter 2. Basic Application Structure - Flask Web Development, 2nd Edition](https://learning.oreilly.com/library/view/flask-web-development/9781491991725/ch02.html#idm140583868985008)
